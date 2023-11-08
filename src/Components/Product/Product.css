@@ -1,0 +1,28 @@
+
+    
+.product img{
+    height: 150px;
+    width: 150px;
+    padding-left: 25px;
+  
+    
+}
+.product{
+    border: 2px solid black;
+    margin-top: 40px;
+    border-radius: 8px;
+    font-weight: 700;
+    margin-left: 30px;
+    margin-right: 50px;
+    
+}
+.product p{
+    padding-left: 10px;
+}
+.button{
+    background-color: rgb(18, 72, 189);
+    padding: 3px 8px;
+    color:white;
+    border-radius: 5px;
+    width: 100%;
+}

@@ -1,0 +1,86 @@
+[
+   
+    {
+      
+      "id": 1,
+      "title": "I Phone",
+      "img": "/public/img/iphone-14pro.jpg",
+      "model": "14Pro Max",
+      "price": 133000
+    },
+    {
+     
+      "id": 2,
+      "title": "Sumsung",
+      "img": "/public/img/sumsung-m53.jpg",
+      "model": "M53",
+      "price": 60000
+    },
+    {
+      
+      "id": 3,
+      "title": "Asus",
+      "img": "/public/img/asus-6pro.jpg",
+      "model": "6Pro",
+      "price": 50000
+    },
+    {
+      
+      "id": 4,
+      "title": "Oppo",
+      "img": "/public/img/oppo-F21.jpg",
+      "model": "F21",
+      "price": 30000
+    },
+    {
+      
+      "id": 5,
+      "title": "Radmi",
+      "img": "/public/img/poco-m2.jpg",
+      "model": "M2",
+      "price": 45000
+    },
+    {
+      
+      "id": 6,
+      "title": "Vivo",
+      "img": "/public/img/vivo.jpg",
+      "model": "V21",
+      "price": 85000
+
+    },
+    {
+      
+      "id": 7,
+      "title": "Tecon",
+      "img": "/public/img/tecno.jpg",
+      "model": "T-420",
+      "price": 25000
+    },
+    {
+      
+      "id": 8,
+      "title": "Realme",
+      "img": "/public/img/realme-9pro.jpg",
+      "model": "9Pro",
+      "price": 28000
+      
+    },
+    {
+      
+      "id": 9,
+      "title": "Nokia",
+      "img": "/public/img/nokia-X30.jpg",
+      "model": "X30",
+      "price": 45000
+    },
+    {
+      
+      "id": 10,
+      "title": "OnePlus",
+      "img": "/public/img/onePlus.jpg",
+      "model": "9Pro",
+      "price": 960000
+    }
+    
+  ]
